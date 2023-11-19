@@ -1,0 +1,26 @@
+{
+  "name": "p5-gizmo",
+  "version": "1.0.0",
+  "description": "A 3D gizmo for p5js",
+  "main": "gizmo.js",
+  "scripts": {
+    "test": "new gizmo(0, 0, 0);"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camelCaseSensitive/p5-gizmo.git"
+  },
+  "keywords": [
+    "gizmo",
+    "3D",
+    "WEBGL",
+    "p5js",
+    "transformControls"
+  ],
+  "author": "Ryan Gilmour",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/camelCaseSensitive/p5-gizmo/issues"
+  },
+  "homepage": "https://github.com/camelCaseSensitive/p5-gizmo#readme"
+}
